@@ -1,0 +1,4 @@
+imagesource:GoogleEarth
+gsd:0.929292361529
+561.0 921.0 605.0 921.0 605.0 983.0 561.0 983.0 swimming-pool 0
+212.0 348.0 422.0 348.0 422.0 523.0 212.0 523.0 ground-track-field 0
